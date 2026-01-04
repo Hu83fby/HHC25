@@ -162,10 +162,11 @@ function onClick(event) {
   const hit = intersects[0].object;
   const url = hit.userData?.url;
 
-  if (url) {
-    event.stopPropagation(); 
-    showOverlay(url); // Opens music_config.md or ornament info
-  }
+if (url) {
+  event.stopPropagation();
+  // FORCE the repo name if it's missing
+  const safeUrl = url.startsWith('/HHC25/') ? url : `/HHC25${url.startsWith('/') ? '' : '/'}${url}`;
+  showOverlay(safeUrl); 
 }
 
 let lastRaycastTime = 0;
