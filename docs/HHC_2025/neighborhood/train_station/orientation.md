@@ -36,4 +36,4 @@ Cnswer is correct
 
 ## Game Location
 
-![alt text](/docs/HHC_2025/neighborhood/train_station/train_station.png)
+![alt text](./train_station.png)

@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-nmap.md) and [Conversations](/docs/HHC_2025/neighborhood/hints/chat-eric_pursley.md)
+[Hints](../hints/hint-nmap.md) and [Conversations](../hints/chat-eric_pursley.md)
 
 Meet Eric in the hotel parking lot for Nmap know-how and scanning secrets. Help him connect to the wardriving rig on his motorcycle!
 
@@ -88,4 +88,4 @@ elf@c6bc9ec07411:~$ exit
 
 ## Game Location
 
-![alt text](/docs/HHC_2025/neighborhood/grand_hotel_parking_lot/nmap.png)
+![alt text](./nmap.png)

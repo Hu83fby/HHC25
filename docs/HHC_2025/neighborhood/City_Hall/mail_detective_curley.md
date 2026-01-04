@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-mail_detective.md) and [Conversations](/docs/HHC_2025/neighborhood/hints/chat-maurice_wilson.md)  
+[Hints](../hints/hint-mail_detective.md) and [Conversations](../hints/chat-maurice_wilson.md)  
 
 Help Mo in City Hall solve a curly email caper and crack the IMAP case. What is the URL of the pastebin service the gnomes are using?
 
@@ -192,4 +192,4 @@ setTimeout(function() {
 
 ## Game Location
 
-![alt text](/docs/HHC_2025/neighborhood/City_Hall/curly.png)
+![alt text](../City_Hall/curly.png)

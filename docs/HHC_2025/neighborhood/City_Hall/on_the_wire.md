@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️ ❄️ ❄️ ❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-on_the_wire.md) and [Conversations](/docs/HHC_2025/neighborhood/hints/chat-evan_booth.md)
+[Hints](../hints/hint-on_the_wire.md) and [Conversations](../hints/chat-evan_booth.md)
 
 Help Evan next to city hall hack this gnome and retrieve the temperature value reported by the I²C device at address 0x3C. The temperature data is XOR-encrypted, so you’ll need to work through each communication stage to uncover the necessary keys. Start with the unencrypted data being transmitted over the 1-wire protocol.
 
@@ -13,4 +13,4 @@ TBD
 
 ## Game Location
 
-![alt text](/docs/HHC_2025/neighborhood/City_Hall/on_the_wire.png)
+![alt text](../City_Hall/on_the_wire.png)

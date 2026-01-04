@@ -1,6 +1,6 @@
 # Chris Davis
 
-↩️[Hack-a-Gnome](/docs/HHC_2025/neighborhood/Data_Center/hack-a-gnome.md)
+↩️[Hack-a-Gnome](../Data_Center/hack-a-gnome.md)
 
 Hi, my name is Chris.
 

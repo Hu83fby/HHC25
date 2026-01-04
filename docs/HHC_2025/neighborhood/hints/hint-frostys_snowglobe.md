@@ -1,4 +1,4 @@
-# [Find and Shutdown Frosty's Snowglobe Machine](/docs/HHC_2025/neighborhood/Data_Center/frostys_snowglobe.md)
+# [Find and Shutdown Frosty's Snowglobe Machine](../Data_Center/frostys_snowglobe.md)
 
 ## A Code in the Dark, You Must Find
 

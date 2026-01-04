@@ -1,4 +1,4 @@
-# [Its All About Defang](/docs/HHC_2025/neighborhood/City_Hall/Eds_Office2/defang.md)
+# [Its All About Defang](../City_Hall/Eds_Office2/defang.md)
 
 ## Defang All The Thingz
 

@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-reverse.md) and [Conversations](/docs/HHC_2025/neighborhood/hints/chat-kevin_mcfarland.md) and [Item](/docs/HHC_2025/neighborhood/Items/item-basic.md)
+[Hints](../hints/hint-reverse.md) and [Conversations](../hints/chat-kevin_mcfarland.md) and [Item](../Items/item-basic.md)
 
 Kevin in the Retro Store needs help rewinding tech and going in reverse. Extract the flag and enter it here.
 
@@ -77,7 +77,7 @@ ACCESS DENIED
 ```
 
 based on line 146, use CyberChef to brute force XOR.
-![alt text](/docs/HHC_2025/neighborhood/Retro_Emporium/xor.png)
+![alt text](../Retro_Emporium/xor.png)
 
 One password jumps out.  We still get Access Denied, but we also get the flag.  
 
@@ -94,4 +94,4 @@ ACCESS DENIED
 
 ## Game Location
 
-![freeSki](/docs/HHC_2025/neighborhood/Retro_Emporium/free_ski.png)
+![freeSki](../Retro_Emporium/free_ski.png)

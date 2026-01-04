@@ -1,6 +1,6 @@
 # Tom Hessman 
 
-↩️ [Snowcat](/docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/snowcat.md)
+↩️ [Snowcat](../Grand_Hotel_Lobby/Netwars/snowcat.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Thomas Bouve
 
-↩️ [Gnome Tea](/docs/HHC_2025/neighborhood/modern_scandinavian_condo/gnome-tea.md)
+↩️ [Gnome Tea](../modern_scandinavian_condo/gnome-tea.md)
 
 ---
 

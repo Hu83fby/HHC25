@@ -1,4 +1,4 @@
-# [Going in Reverse](/docs/HHC_2025/neighborhood/Retro_Emporium/reverse.md)
+# [Going in Reverse](../Retro_Emporium/reverse.md)
 
 Holy cow! Another retro floppy disk, what are the odds? Well it looks like this one is intact.
 

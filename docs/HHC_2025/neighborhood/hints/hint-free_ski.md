@@ -1,4 +1,4 @@
-# [Free Ski](/docs/HHC_2025/neighborhood/Retro_Emporium/Free_Ski.md)
+# [Free Ski](../Retro_Emporium/Free_Ski.md)
 
 ## Decompilation!
 

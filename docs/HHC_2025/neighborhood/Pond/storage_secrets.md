@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-blob_storage.md)
+[Hints](../hints/hint-blob_storage.md)
 
 Help the Goose Grace near the pond find which Azure Storage account has been misconfigured to allow public blob access by analyzing the export file.
 
@@ -353,4 +353,4 @@ neighbor@c2cf79cfc8b0:~$ finish
 
 ## Game Location
 
-![alt text](/docs/HHC_2025/neighborhood/Pond/spare_key.png)
+![alt text](./spare_key.png)

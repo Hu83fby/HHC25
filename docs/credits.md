@@ -1,6 +1,6 @@
 # Credits and attribution
 
-↩️ Return to [Settings](./config/settings.md)
+↩️ Return to [Settings](./js/config/settings.md)
 
 * Special thanks to the entire [SANS](https://www.sans.org/) crew for all that goes into hosting [HHC](https://www.sans.org/cyber-ranges/holiday-hack-challenge) each year!  The holiday season would not be the same without this event!!  🎅
 

@@ -18,7 +18,6 @@ export function addTreeTopper(scene, colliders) {
 
 const topperURL = new URL( './docs/credits.md', window.location.origin).href;
 
-
     topper.userData = { isTopper: true, url: topperURL }; 
     topper.traverse(child => {
       if (child.isMesh) child.userData = { isTopper: true, url: topperURL }; 

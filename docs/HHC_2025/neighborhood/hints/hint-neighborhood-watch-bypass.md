@@ -1,4 +1,4 @@
-# [Neighborhood Watch Bypass](/docs/HHC_2025/neighborhood/Data_Center/Neighborhood_Watch_Bypass.md)
+# [Neighborhood Watch Bypass](../Data_Center/Neighborhood_Watch_Bypass.md)
 
 ## Path Hijacking
 

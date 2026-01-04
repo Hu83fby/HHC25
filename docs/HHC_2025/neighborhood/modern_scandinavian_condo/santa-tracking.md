@@ -1,11 +1,11 @@
 # Santa's Gift-Tracking Service Port Mystery
 
-<!-- ![alt text](/docs/HHC_2025/neighborhood/modern_scandinavian_condo/santa-tracking2.png) -->
+<!-- ![alt text](../modern_scandinavian_condo/santa-tracking2.png) -->
 
 ## Objective
 
 Difficulty: ❄️  
-[Hints](/docs/HHC_2025/neighborhood/hints/hint-santa_gift_tracking.md) and [Conversations](/docs/HHC_2025/neighborhood/hints/chat-yori_kvitchko.md)
+[Hints](../hints/hint-santa_gift_tracking.md) and [Conversations](../hints/chat-yori_kvitchko.md)
 
 Chat with Yori near the apartment building about Santa's mysterious gift tracker and unravel the holiday mystery.
 
