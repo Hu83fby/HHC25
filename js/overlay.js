@@ -108,9 +108,12 @@ if (!window.hasOverlayLinkListener) {
     if (link) {
       event.preventDefault();
 
-      if (link.href.startsWith(window.location.origin)){
-        const [baseUrl, hash] = link.href.split("#"); 
+      const repoBase = `${window.location.origin}/HHC25`;
+
+      if (link.href.startsWith(repoBase)) {
+      const [baseUrl, hash] = link.href.split("#");
         showOverlay(baseUrl);
+
 
         if (hash) {
           setTimeout(() => {
