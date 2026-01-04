@@ -25,7 +25,7 @@ export function addSettingsGear(scene, colliders) {
       }
     });
 
-    const gearURL = new URL('../js/config/settings.js', window.location.origin).href;
+    const gearURL = new URL('/HHC25/js/config/settings.js', window.location.origin).href;
 
     // Tag for tooltip + overlay
     gear.userData.isgear = true;
