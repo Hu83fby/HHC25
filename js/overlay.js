@@ -4,6 +4,10 @@ import 'highlight.js/styles/monokai.css';
 
 let overlayActive = false;
 
+// --- GitHub Pages safe base path ---
+const REPO_BASE = `${window.location.origin}/HHC25`;
+
+
 marked.setOptions({
   highlight: (code, lang) => {
     if (lang && hljs.getLanguage(lang)) {
@@ -55,7 +59,11 @@ export function showOverlay(url) {
   const overlay = document.getElementById('overlay');
   const contentInner = document.getElementById('overlayInner');
 
-  fetch(url)
+const finalUrl = url.startsWith("http")
+  ? url
+  : `${REPO_BASE}/${url.replace(/^\/+/, "")}`;
+
+fetch(finalUrl)
     .then(res => {
       if (!res.ok) throw new Error(`Failed to load ${url}`);
       return res.text();
