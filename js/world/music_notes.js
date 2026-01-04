@@ -28,7 +28,7 @@ export function addMusicNotes(scene, colliders) {
     });
 
     // URL for your overlay
-    const musicNotesURL = new URL('./js/config/music_config.md', window.location.origin).href;
+    const musicNotesURL = new URL('./config/music_config.md', window.location.origin).href;
 
     // Tag the root object for click + tooltip
     music.userData = {

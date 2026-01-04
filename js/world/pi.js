@@ -40,7 +40,7 @@ export function addRasPi(scene, colliders) {
       }
     });
 
-    const rasPiURL = new URL('./js/config/perf_config.md', window.location.origin).href;
+    const rasPiURL = new URL('./config/perf_config.md', window.location.origin).href;
     rasPi.userData.israsPi = true;
     rasPi.userData.activityLights = activityLights;
     rasPi.userData.raspberryParts = raspberryParts;
