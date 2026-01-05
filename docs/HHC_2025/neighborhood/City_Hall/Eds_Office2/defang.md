@@ -89,8 +89,8 @@ Use the tabs below to extract each IOC type from the email. Be sure not to inclu
 s/\./[.]/g ; s/@/[@]/g ; s/http/hxxp/g ; s/:\//[://]/g
 ```
 
-![alt text](../City_Hall/Eds_Office2/final_report.png)
+![alt text](./docs/HHC_2025/neighborhood/City_Hall/Eds_Office2/final_report.png)
 
 ## Game Location
 
-![eds_office](../City_Hall/Eds_Office2/eds_office.png)
+![eds_office](./docs/HHC_2025/neighborhood/City_Hall/Eds_Office2/eds_office.png)
