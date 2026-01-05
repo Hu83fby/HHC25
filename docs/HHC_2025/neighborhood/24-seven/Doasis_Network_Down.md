@@ -195,4 +195,4 @@ SprinklesAndPackets2025!
 
 ## Game Location
 
-![alt text](docs/HHC_2025/neighborhood/24-seven/dosis_network.png)
+![alt text](./docs/HHC_2025/neighborhood/24-seven/dosis_network.png)
