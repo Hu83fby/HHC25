@@ -5,7 +5,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 export function addMusicNotes(scene, colliders) {
   const loader = new GLTFLoader();
 
-  loader.load('./models/music_notes.glb', (gltf) => {
+  loader.load('models/music_notes.glb', (gltf) => {
 
     // The actual notes object
     const music = gltf.scene;
@@ -28,7 +28,7 @@ export function addMusicNotes(scene, colliders) {
     });
 
     // URL for your overlay
-    const musicNotesURL = new URL('./js/config/music_config.md', window.location.origin).href;
+    const musicNotesURL = 'js/config/music_config.md';
 
     // Tag the root object for click + tooltip
     music.userData = {

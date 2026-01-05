@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 export function addSettingsGear(scene, colliders) {
   const loader = new GLTFLoader();
 
-  loader.load('./models/gear.glb', (gltf) => {
+  loader.load('models/gear.glb', (gltf) => {
 
     const gear = gltf.scene;
 
@@ -25,7 +25,7 @@ export function addSettingsGear(scene, colliders) {
       }
     });
 
-    const gearURL = new URL('../../js/config/settings.js', window.location.origin).href;
+    const gearURL = 'js/config/settings.md';
 
     // Tag for tooltip + overlay
     gear.userData.isgear = true;

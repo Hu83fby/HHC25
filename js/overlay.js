@@ -59,18 +59,31 @@ export function showOverlay(url) {
   const overlay = document.getElementById('overlay');
   const contentInner = document.getElementById('overlayInner');
 
-const finalUrl = url.startsWith("http")
-  ? url
-  : `${REPO_BASE}/${url.replace(/^\/+/, "")}`;
+  let finalUrl = url;
 
-fetch(finalUrl)
+  // 1. If it's already a full URL (starts with http), leave it alone
+  if (url.startsWith('http')) {
+    finalUrl = url;
+  } 
+  // 2. If it already starts with the repo name /HHC25, use it as is
+  else if (url.startsWith('/HHC25')) {
+    finalUrl = url;
+  }
+  // 3. Otherwise, clean up the path and add the REPO_BASE
+  else {
+    // This removes any accidental leading "./" or "/"
+    const cleanedPath = url.replace(/^(\.\/|\/)/, "");
+    finalUrl = `${REPO_BASE}/${cleanedPath}`;
+  }
+
+  fetch(finalUrl)
     .then(res => {
-      if (!res.ok) throw new Error(`Failed to load ${url}`);
+      if (!res.ok) throw new Error(`Failed to load ${finalUrl}`);
       return res.text();
     })
     .then(md => {
       contentInner.innerHTML = marked.parse(md);
-      contentInner.scrollIntoView({ block: 'start'});  // 11.13.1 fix to start at top each time
+      contentInner.scrollIntoView({ block: 'start'});
 
       document.dispatchEvent(new CustomEvent("overlayLoaded", { detail: url }));
 
@@ -116,12 +129,11 @@ if (!window.hasOverlayLinkListener) {
     if (link) {
       event.preventDefault();
 
-      const repoBase = `${window.location.origin}/HHC25`;
+const repoBase = `${window.location.origin}/HHC25`;
 
       if (link.href.startsWith(repoBase)) {
-      const [baseUrl, hash] = link.href.split("#");
+        const [baseUrl, hash] = link.href.split("#"); 
         showOverlay(baseUrl);
-
 
         if (hash) {
           setTimeout(() => {

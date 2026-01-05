@@ -13,4 +13,4 @@ To get started, explore the tree.  Move your mouse around see what's interactive
 
 ## Credits
 
-View all [credits and attribution](../../docs/credits.md) for this project
+View all [credits and attribution](docs/credits.md) for this project

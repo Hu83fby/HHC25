@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 export function addRasPi(scene, colliders) {
   const loader = new GLTFLoader();
 
-  loader.load('./models/pi.glb', (gltf) => {
+  loader.load('models/pi.glb', (gltf) => {
     const rasPi = gltf.scene;
     const baseScale = 1.0;
     rasPi.scale.set(baseScale, baseScale, baseScale);
@@ -40,7 +40,7 @@ export function addRasPi(scene, colliders) {
       }
     });
 
-    const rasPiURL = new URL('./js/config/perf_config.md', window.location.origin).href;
+    const rasPiURL = 'js/config/perf_config.md';
     rasPi.userData.israsPi = true;
     rasPi.userData.activityLights = activityLights;
     rasPi.userData.raspberryParts = raspberryParts;

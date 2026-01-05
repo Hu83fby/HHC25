@@ -21,12 +21,12 @@ canvas {
 
 /* Force the body to use the custom cursor */
 body.interactive-cursor {
-  cursor: url('images/santa_hand.png') 0 0, pointer !important;
+  cursor: url('/images/santa_hand.png') 0 0, pointer !important;
 }
 
 /* Force the canvas to inherit the cursor from the body */
 body.interactive-cursor canvas#treeCanvas {
-  cursor: url('./images/santa_hand.png') 0 0, pointer !important;
+  cursor: url('/images/santa_hand.png') 0 0, pointer !important;
 }
 
 

@@ -21,7 +21,7 @@ export function addBulbsToScene(scene, treeConfig) {
 
   const loader = new GLTFLoader();
 
-  loader.load('./models/christmas_bulb.glb', (gltf) => {
+  loader.load('models/christmas_bulb.glb', (gltf) => {
     const bulbMesh = gltf.scene.getObjectByName('bulb');
     const baseMesh = gltf.scene.getObjectByName('base');
 

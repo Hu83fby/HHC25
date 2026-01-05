@@ -6,7 +6,7 @@ import { treeConfig } from './treeConfig';
 export function loadTree(scene, onLoaded) { 
   const loader = new GLTFLoader(); 
 
-  loader.load('./models/christmas_tree.glb', (gltf) => {
+  loader.load('models/christmas_tree.glb', (gltf) => {
     const tree = gltf.scene;
 
     tree.scale.set(

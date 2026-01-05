@@ -168,6 +168,7 @@ if (url) {
   const safeUrl = url.startsWith('/HHC25/') ? url : `/HHC25${url.startsWith('/') ? '' : '/'}${url}`;
   showOverlay(safeUrl); 
 }
+}
 
 let lastRaycastTime = 0;
 const RAYCAST_INTERVAL = 32; // ~30fps

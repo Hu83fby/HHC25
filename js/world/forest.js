@@ -5,7 +5,7 @@ let baseTree = null;
 
 export async function loadSnowTree() {
   const loader = new GLTFLoader(); 
-  const gltf = await loader.loadAsync('./models/snow_tree.glb');
+  const gltf = await loader.loadAsync('models/snow_tree.glb');
   baseTree = gltf.scene;
 }
 

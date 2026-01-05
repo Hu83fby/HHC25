@@ -6,7 +6,7 @@ export function addTreeTopper(scene, colliders) {
       const loader = new GLTFLoader();
 
 
-  loader.load('./models/frosty_topper.glb', (gltf) => {
+  loader.load('models/frosty_topper.glb', (gltf) => {
 
     const {height, originOffset } = treeConfig; 
     const topper = gltf.scene; 
@@ -14,9 +14,10 @@ export function addTreeTopper(scene, colliders) {
     topper.position.set(0, height / 2 + 0.25, 0); 
 
 // Uncomment this line for debugging links
-//    const topperURL = new URL( './docs/HHC_2025/readme.md', window.location.origin).href;
+//    const topperURL = new URL( '/docs/HHC_2025/readme.md', window.location.origin).href;
 
-const topperURL = new URL( './docs/credits.md', window.location.origin).href;
+const topperURL = 'docs/credits.md';
+
 
     topper.userData = { isTopper: true, url: topperURL }; 
     topper.traverse(child => {
