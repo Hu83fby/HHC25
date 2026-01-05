@@ -195,4 +195,4 @@ SprinklesAndPackets2025!
 
 ## Game Location
 
-![alt text](./dosis_network.png)
+![alt text](/dosis_network.png)
