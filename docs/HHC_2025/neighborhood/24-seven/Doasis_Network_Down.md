@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️ ❄️  
-[Hints](../hints/hint-dosis_network_down.md) and [Conversations](../hints/chat-janusz_jasinski.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-dosis_network_down.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-janusz_jasinski.md)
 
 Drop by JJ's 24-7 for a network rescue and help restore the holiday cheer. What is the WiFi password found in the router's config?
 
