@@ -250,4 +250,4 @@ neighbor@13ba950dd327:~$
 
 ## Game Location
 
-![alt text](../Park/owner.png)
+![alt text](./docs/HHC_2025/neighborhood/Park/owner.png)
