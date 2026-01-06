@@ -1,4 +1,4 @@
-# [Dosis Network Down](../24-seven/Doasis_Network_Down.md)
+# [Dosis Network Down](./docs/HHC_2025/neighborhood/24-seven/Doasis_Network_Down.md)
 
 ## Version
 
