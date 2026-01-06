@@ -1,4 +1,4 @@
-# [Quantgnome Leap](../Grand_Hotel_Lobby/Quantgnome_Leap.md)
+# [Quantgnome Leap](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Quantgnome_Leap.md)
 
 ## Quantgnome Leap - hint 1
 
