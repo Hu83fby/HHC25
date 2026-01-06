@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️ ❄️ ❄️  
-[Hints](../hints/hint-snowcat.md) and [Conversations](../hints/chat-tom-hessman.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-snowcat.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-tom-hessman.md)
 
 Tom, in the hotel, found a wild Snowcat bug. Help him chase down the RCE! Recover and submit the API key not being used by snowcat.
 
