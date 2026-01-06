@@ -1,6 +1,6 @@
 ## Josh Wright
 
-↩️ [IDORable Bistro](../Sasabune/IDORable_Bistro.md)
+↩️ [IDORable Bistro](./docs/HHC_2025/neighborhood/Sasabune/IDORable_Bistro.md)
 
 ---
 
