@@ -213,5 +213,5 @@ Run the file to complete the challenge
 
 ## Game Location
 
- ![alt](../Data_Center/Neighborhood_Watch_Bypass.png)
+ ![alt](./docs/HHC_2025/neighborhood/Data_Center/Neighborhood_Watch_Bypass.png)
  
