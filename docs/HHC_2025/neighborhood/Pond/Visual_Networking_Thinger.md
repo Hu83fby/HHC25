@@ -15,7 +15,7 @@ Want to dive into some hands-on network exploration?
 
 ## Solution
 
-![alt text](./VNT_00.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_00.png)
 
 ### Challenge 1: DNS Lookup
 
@@ -27,26 +27,26 @@ Step one is to find the IP address of visual-networking.holidayhackchallenge.com
 
 Now that we have the IP address of the web server, we need a TCP connection. Drag and drop TCP flags to create TCP 3-way handshake between client and server.
 
-![alt text](./VNT_02.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_02.png)
 
 ### Challenge 3: HTTP GET Request
 
 Now that we have established a TCP connection, let's create an HTTP GET request to retrieve the web page.
 
-![alt text](./VNT_03.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_03.png)
 
 ### Challenge 4: TLS Handshake
 
 Great job with HTTP! Now let's set up a secure connection using TLS. Drag and drop the TLS messages to create the correct handshake sequence.
 
-![alt text](./VNT_04.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_04.png)
 
 ### Challenge 5: HTTPS GET Request
 
 Now that we've established a secure TLS connection, let's make an HTTPS request to retrieve the website securely.
 
-![alt text](./VNT_05.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_05.png)
 
 ### Victory
 
-![alt text](./VNT_06.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/VNT_06.png)
