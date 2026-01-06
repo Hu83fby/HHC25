@@ -353,4 +353,4 @@ Go back to the ojective and enter the answer.
   
 ## Game Location
 
-![alt text](../Park/rogue_gnome.png) 
+![alt text](./docs/HHC_2025/neighborhood/Park/rogue_gnome.png) 
