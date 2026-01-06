@@ -1,4 +1,4 @@
-# [Schrödinger's Scope](../Retro_Emporium/Schrodingers_scope.md)
+# [Schrödinger's Scope](./docs/HHC_2025/neighborhood/Retro_Emporium/Schrodingers_scope.md)
 
 ## Hint 1 - Schrödinger's Scope
 
