@@ -1,6 +1,6 @@
 # Maurice Wilson 
 
-↩️ [Mail Detective](../City_Hall/mail_detective_curley.md)
+↩️ [Mail Detective](./docs/HHC_2025/neighborhood/City_Hall/mail_detective_curley.md)
 
 ---
 
