@@ -1,4 +1,4 @@
-# [Intro into NMAP](docs/HHC_2025/neighborhood/grand_hotel_parking_lot/nmap.md)
+# [Intro into NMAP](./docs/HHC_2025/neighborhood/grand_hotel_parking_lot/nmap.md)
 
 
 ## Nmap Documentation
