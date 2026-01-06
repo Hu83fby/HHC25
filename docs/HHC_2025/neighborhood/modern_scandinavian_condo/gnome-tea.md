@@ -42,4 +42,4 @@ does not work - https://gnometea.firebaseio.com
 
 ## Game Location
 
-![alt text](../modern_scandinavian_condo/gnome-tea.png)
+![alt text](./docs/HHC_2025/neighborhood/modern_scandinavian_condo/gnome-tea.png)
