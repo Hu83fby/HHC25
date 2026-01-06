@@ -13,4 +13,4 @@ TBD
 
 ## Game Location
 
-![alt text](../Retro_Emporium/free_ski.png)
+![alt text](./docs/HHC_2025/neighborhood/Retro_Emporium/free_ski.png)
