@@ -464,4 +464,4 @@ Completing challenge...
 
 ## Game Location
 
-![alt text](../grand_hotel_parking_lot/open_door.png)
+![alt text](./docs/HHC_2025/neighborhood/grand_hotel_parking_lot/open_door.png)
