@@ -1,6 +1,6 @@
-# [Retro Recovery](../Retro_Emporium/retro.md)
+# [Retro Recovery](./docs/HHC_2025/neighborhood/Retro_Emporium/retro.md)
 
-## Hints from [Mark](../hints/chat-mark-devito.md) in chat
+## Hints from [Mark](./docs/HHC_2025/neighborhood/hints/chat-mark-devito.md) in chat
 
 * Look in deleted items
 * Star Trek is his favorite
