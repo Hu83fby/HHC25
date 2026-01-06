@@ -1,8 +1,8 @@
 # Eric Pursley 
 
-↩️ [Intro into NMAP](docs/HHC_2025/neighborhood/grand_hotel_parking_lot/nmap.md)
+↩️ [Intro into NMAP](./docs/HHC_2025/neighborhood/grand_hotel_parking_lot/nmap.md)
 
-![](../hints/ericpursley-avatar.gif)
+![](./docs/HHC_2025/neighborhood/hints/ericpursley-avatar.gif)
 
 ---
 
