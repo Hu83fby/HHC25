@@ -107,4 +107,4 @@ Go back to the objective to enter the answer
 
 ## Game Location
 
-![alt text](../Sasabune/idor.png)
+![alt text](./docs/HHC_2025/neighborhood/Sasabune/idor.png)
