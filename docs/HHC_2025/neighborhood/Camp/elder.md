@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Conversations](../hints/chat-elder-gnome.md)
+[Conversations](./docs/HHC_2025/neighborhood/hints/chat-elder-gnome.md)
 
 Find and talk to the Elder gnome who had a change of heart.  
 
