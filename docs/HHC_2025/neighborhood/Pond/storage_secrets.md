@@ -353,4 +353,4 @@ neighbor@c2cf79cfc8b0:~$ finish
 
 ## Game Location
 
-![alt text](./spare_key.png)
+![alt text](./docs/HHC_2025/neighborhood/Pond/spare_key.png)
