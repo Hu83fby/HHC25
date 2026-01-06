@@ -192,4 +192,4 @@ setTimeout(function() {
 
 ## Game Location
 
-![alt text](../City_Hall/curly.png)
+![alt text](./docs/HHC_2025/neighborhood/City_Hall/curly.png)
