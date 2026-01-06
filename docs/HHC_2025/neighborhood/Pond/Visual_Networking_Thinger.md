@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](../hints/hint-Visual_Networking_Thinger.md) and [Conversations](../hints/chat-jared_folkins.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-Visual_Networking_Thinger.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-jared_folkins.md)
 
 Santa's got the right idea about giving, and I'm excited to give you a fantastic way to learn networking fundamentals!
 
