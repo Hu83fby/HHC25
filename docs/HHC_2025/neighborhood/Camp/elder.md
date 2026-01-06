@@ -9,4 +9,4 @@ Find and talk to the Elder gnome who had a change of heart.
 
 ## Game Location
 
-![alt text](../Camp/elder.png)
+![alt text](./docs/HHC_2025/neighborhood/Camp/elder.png)
