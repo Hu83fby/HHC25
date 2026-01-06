@@ -77,7 +77,7 @@ ACCESS DENIED
 ```
 
 based on line 146, use CyberChef to brute force XOR.
-![alt text](../Retro_Emporium/xor.png)
+![alt text](./docs/HHC_2025/neighborhood/Retro_Emporium/xor.png)
 
 One password jumps out.  We still get Access Denied, but we also get the flag.  
 
