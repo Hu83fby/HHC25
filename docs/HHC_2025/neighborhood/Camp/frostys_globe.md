@@ -17,6 +17,6 @@ Once you find the Snowglobe Machine, figure out how to shut it down and melt Fro
 
 Navigate to the first path then enter the elevator
 
-![alt text](./fg_door1.png)
+![alt text](./docs/HHC_2025/neighborhood/Camp/fg_door1.png)
 
-This leads us to the [Gnome Factory](../Data_Center/Data_Center_Tunnels/Gnome_Factory/Smart_gnome.md)
+This leads us to the [Gnome Factory](./docs/HHC_2025/neighborhood/Data_Center/Data_Center_Tunnels/Gnome_Factory/Smart_gnome.md)
