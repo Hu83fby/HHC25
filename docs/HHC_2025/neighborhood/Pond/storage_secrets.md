@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](../hints/hint-blob_storage.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-blob_storage.md)
 
 Help the Goose Grace near the pond find which Azure Storage account has been misconfigured to allow public blob access by analyzing the export file.
 
