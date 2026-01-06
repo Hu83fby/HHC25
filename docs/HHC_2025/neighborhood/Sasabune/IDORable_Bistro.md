@@ -3,7 +3,7 @@
 ## Objective  
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-idorable.md) and [Conversations](../hints/chat-josh_wright.md) and [Items](../Items/item-receipt.md)  
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-idorable.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-josh_wright.md) and [Items](./docs/HHC_2025/neighborhood/Items/item-receipt.md)  
 
 Josh has a tasty IDOR treat for you—stop by Sasabune for a bite of vulnerability. What is the name of the gnome?
 
