@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-mail_detective.md) and [Conversations](../hints/chat-maurice_wilson.md)  
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-mail_detective.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-maurice_wilson.md)  
 
 Help Mo in City Hall solve a curly email caper and crack the IMAP case. What is the URL of the pastebin service the gnomes are using?
 
