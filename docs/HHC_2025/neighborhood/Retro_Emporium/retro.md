@@ -333,4 +333,4 @@ root@kali:~/Downloads/HHC/tmp/qb45#
 
 ## Game Location
 
-![alt text](../Retro_Emporium/floppy.png)
+![alt text](./docs/HHC_2025/neighborhood/Retro_Emporium/floppy.png)
