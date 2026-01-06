@@ -13,4 +13,4 @@ TBD
 
 ## Game Location
 
-![alt text](../City_Hall/on_the_wire.png)
+![alt text](./docs/HHC_2025/neighborhood/City_Hall/on_the_wire.png)
