@@ -3,7 +3,7 @@
 ## Objective  
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-quantgnome_leap.md) and [Conversations](../hints/chat-charlie_goldner.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-quantgnome_leap.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-charlie_goldner.md)
 
 Charlie in the hotel has quantum gnome mysteries waiting to be solved. What is the flag that you find?
 
