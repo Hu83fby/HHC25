@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-reverse.md) and [Conversations](../hints/chat-kevin_mcfarland.md) and [Item](../Items/item-basic.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-reverse.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-kevin_mcfarland.md) and [Item](./docs/HHC_2025/neighborhood/Items/item-basic.md)
 
 Kevin in the Retro Store needs help rewinding tech and going in reverse. Extract the flag and enter it here.
 
