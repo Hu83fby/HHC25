@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-rogue_gnome.md) and [Conversations](../hints/chat-paul_beckett.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-rogue_gnome.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-paul_beckett.md)
 
 Hike over to Paul in the park for a gnomey authentication puzzle adventure. What malicious firmware image are the gnomes downloading?
 
