@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](../hints/hint-defang.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-defang.md)
 
 Find Ed Skoudis upstairs in City Hall and help him troubleshoot a clever phishing tool in his cozy office.
 
