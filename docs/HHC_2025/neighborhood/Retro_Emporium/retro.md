@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️❄️  
-[Hints](../hints/hint-retro.md) and [Conversations](../hints/chat-mark-devito.md) and [Item](../Items/item-floppy.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-retro.md) and [Conversations](./docs/HHC_2025/neighborhood/hints/chat-mark-devito.md) and [Item](./docs/HHC_2025/neighborhood/Items/item-floppy.md)
 
 Join Mark in the retro shop. Analyze his disk image for a blast from the retro past and recover some classic treasures.
 
