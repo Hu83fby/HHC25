@@ -3,8 +3,8 @@
 ## Objective
 
 Difficulty: ❄️ ❄️ ❄️  
-[Hints](../hints/hint-gnome_tea.md) and 
-[Conversations](../hints/chat-thomas_bouve.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-gnome_tea.md) and 
+[Conversations](./docs/HHC_2025/neighborhood/hints/chat-thomas_bouve.md)
 
 
 Enter the apartment building near 24-7 and help Thomas infiltrate the GnomeTea social network and discover the secret agent passphrase.
