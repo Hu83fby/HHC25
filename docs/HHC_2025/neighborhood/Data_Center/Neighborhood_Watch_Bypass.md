@@ -3,7 +3,7 @@
 ## Objective
 
 Difficulty: ❄️  
-[Hints](../hints/hint-neighborhood-watch-bypass.md)
+[Hints](./docs/HHC_2025/neighborhood/hints/hint-neighborhood-watch-bypass.md)
 
 Assist Kyle at the old data center with a fire alarm that just won't chill.
 
