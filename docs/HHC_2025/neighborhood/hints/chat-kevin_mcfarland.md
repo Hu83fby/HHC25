@@ -1,7 +1,7 @@
 # Kevin McFarland 
 
-↩️ [Going in Reverse](../Retro_Emporium/reverse.md)  
-↩️ [Schrödinger's Scope](../Retro_Emporium/Schrodingers_scope.md)
+↩️ [Going in Reverse](./docs/HHC_2025/neighborhood/Retro_Emporium/reverse.md)  
+↩️ [Schrödinger's Scope](./docs/HHC_2025/neighborhood/Retro_Emporium/Schrodingers_scope.md)
 
 Hello, I'm Kevin (though past friends have referred to me as 'Heavy K'). If you ever hear any one say that philosophy is a useless college degree, don't believe them; it's not. I've arrived where I am at because of it. It just made the path more interesting.
 
