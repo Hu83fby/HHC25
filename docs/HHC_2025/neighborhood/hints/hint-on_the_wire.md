@@ -1,4 +1,4 @@
-## [On the Wire](../City_Hall/on_the_wire.md)
+## [On the Wire](./docs/HHC_2025/neighborhood/City_Hall/on_the_wire.md)
 
 ## Protocols
 
