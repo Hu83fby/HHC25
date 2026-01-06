@@ -202,4 +202,4 @@ user@weather:~$
 
 ## Game Location
 
-![alt text](../Grand_Hotel_Lobby/Netwars/snowcat.png)
+![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/snowcat.png)
