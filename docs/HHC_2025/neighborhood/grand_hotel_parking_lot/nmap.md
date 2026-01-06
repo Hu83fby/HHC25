@@ -88,4 +88,4 @@ elf@c6bc9ec07411:~$ exit
 
 ## Game Location
 
-![alt text](./nmap.png)
+![alt text](./docs/HHC_2025/neighborhood/neighborhood/grand_hotel_parking_lot/nmap.png)
