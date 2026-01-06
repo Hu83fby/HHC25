@@ -14,13 +14,13 @@ Solve in terminal
 
 The config goals will immediately turn green when you have selected the correct values. 
 
-![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/netwars/fw_config_goals.png)
+![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/fw_config_goals.png)
 
 ### Internet
 
 Final solution - Tick HTTPS and HTTP
 
-![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/netwars/fw_internet.png)
+![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/fw_internet.png)
 
 ### DMZ
 
@@ -32,13 +32,13 @@ solution - tick https, http and ssh
 
 solution - tick http, https
 
-![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/netwars/fw_dmz.png)
+![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/fw_dmz.png)
 
 #### Cloud
 
 solution, tick http, https, ssh, smtp
 
-![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/netwars/fw_cloud.png)
+![alt text](./docs/HHC_2025/neighborhood/Grand_Hotel_Lobby/Netwars/fw_cloud.png)
 
 #### Workstations
 
