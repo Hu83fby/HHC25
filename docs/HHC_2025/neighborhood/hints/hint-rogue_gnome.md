@@ -1,4 +1,4 @@
-# [Rogue Gnome Identity Provider](../Park/Rogue_Gnome_Identity_Provider.md)
+# [Rogue Gnome Identity Provider](./docs/HHC_2025/neighborhood/Park/Rogue_Gnome_Identity_Provider.md)
 
 ## Rogue Gnome IDP
 
